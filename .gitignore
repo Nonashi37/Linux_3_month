@@ -1,1 +1,13 @@
+# Environments
 .venv/
+venv/
+env/
+
+# VS code setting (if you don't wanna share them)
+.vscode/
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
